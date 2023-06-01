@@ -16,8 +16,8 @@ h3 {
 #header {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    padding: 30px 60px 15px 60px;
+    justify-content: space-around;
+    padding: 45px 0px 15px 0px;
     font-size: 30px;
     align-items: center;
   }
@@ -25,6 +25,7 @@ h3 {
 
 .header-left {
   flex-shrink: 0;
+  padding-right: 100px;
 }
 ul {
   display: inline;
