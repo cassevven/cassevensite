@@ -15,7 +15,6 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-  margin: 0;
   padding: 0;
   border: 0;
   font-size: 100%;
@@ -276,7 +275,6 @@ body {
   flex: 25%;
   max-width: 25%;
   padding: 0 4px;
-  margin: 50px;
 }
 
 .column img {
